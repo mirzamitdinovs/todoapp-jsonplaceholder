@@ -1,0 +1,10 @@
+.todolist {
+	width: 500px;
+	padding: 20px;
+	border: 1px solid gray;
+}
+
+.text {
+	text-align: center;
+	color: lightgray;
+}

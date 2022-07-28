@@ -1,0 +1,20 @@
+.addtodo {
+	background: red;
+	margin: 10px 0px;
+}
+
+.form {
+	display: flex;
+	height: 30px;
+}
+
+.input {
+	flex: 1;
+}
+
+.button {
+	width: 100px;
+	background: green;
+	color: white;
+	border: none;
+}
